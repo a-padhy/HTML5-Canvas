@@ -1,6 +1,6 @@
 # HTML5-Canvas
 
-A canvas for scribbling. The paint colour and size varies with time.
+A canvas for scribbling. The paint color and size varies with time.
 
 ### Screenshot
 
